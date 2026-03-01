@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a simple full adder
+This is a simple 4 bit ripple counter using D flip flop
 
 ## How to test
 
-Apply A, B, Cin from switches and observer sum and carry on LEDS
+Apply clock and observe count pattern on LEDS
 
 ## External hardware
 
